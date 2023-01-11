@@ -22,7 +22,7 @@
     "gatsby-remark-images": "^3.0.16",
     "gatsby-remark-responsive-iframe": "^2.2.21",
     "gatsby-source-filesystem": "^2.0.43",
-    "gatsby-transformer-remark": "^2.4.0",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^2.1.21",
     "moment": "^2.24.0",
     "prismjs": "^1.16.0",
